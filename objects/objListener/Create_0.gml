@@ -7,3 +7,6 @@ audio_listener_set_orientation(0, 1, 1, 0, 0, 0, 1);
 audio_falloff_set_model(audio_falloff_exponent_distance_scaled);
 
 following = false;
+
+//Remove all effects
+audio_bus_main.bypass = true;

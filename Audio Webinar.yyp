@@ -202,7 +202,7 @@
     {"id":{"name":"WAV_SFX_Waves_Heavy","path":"sounds/WAV_SFX_Waves_Heavy/WAV_SFX_Waves_Heavy.yy",},"order":0,},
     {"id":{"name":"seqMusicOptionsAppear","path":"sequences/seqMusicOptionsAppear/seqMusicOptionsAppear.yy",},"order":0,},
     {"id":{"name":"sprBitCrusherIcon","path":"sprites/sprBitCrusherIcon/sprBitCrusherIcon.yy",},"order":0,},
-    {"id":{"name":"sprMusicWindow","path":"sprites/sprMusicWindow/sprMusicWindow.yy",},"order":12,},
+    {"id":{"name":"sprBackground","path":"sprites/sprBackground/sprBackground.yy",},"order":0,},
     {"id":{"name":"objMusicOptions","path":"objects/objMusicOptions/objMusicOptions.yy",},"order":2,},
     {"id":{"name":"rmEmitters","path":"rooms/rmEmitters/rmEmitters.yy",},"order":0,},
     {"id":{"name":"WAV_SFX_Thunder_01","path":"sounds/WAV_SFX_Thunder_01/WAV_SFX_Thunder_01.yy",},"order":0,},
@@ -224,8 +224,8 @@
     {"id":{"name":"rmAudioPlayer","path":"rooms/rmAudioPlayer/rmAudioPlayer.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rmCave","path":"rooms/rmCave/rmCave.yy",},},
     {"roomId":{"name":"rmAudioPlayer","path":"rooms/rmAudioPlayer/rmAudioPlayer.yy",},},
+    {"roomId":{"name":"rmCave","path":"rooms/rmCave/rmCave.yy",},},
     {"roomId":{"name":"rmEmitters","path":"rooms/rmEmitters/rmEmitters.yy",},},
     {"roomId":{"name":"rmEffects","path":"rooms/rmEffects/rmEffects.yy",},},
   ],
