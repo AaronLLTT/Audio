@@ -45,40 +45,41 @@
     {"name":"inst_2236C156","path":"rooms/rmEffects/rmEffects.yy",},
     {"name":"inst_5A2E48E7","path":"rooms/rmEffects/rmEffects.yy",},
     {"name":"inst_2F30C85A","path":"rooms/rmEffects/rmEffects.yy",},
+    {"name":"inst_6CADB828","path":"rooms/rmEffects/rmEffects.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6BE00C5A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"propertyId":{"name":"mySound","path":"objects/objPlaySound/objPlaySound.yy",},"value":"sndAlien_Death",},
-          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":86.0,},
+          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":54.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_633A2E43","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"propertyId":{"name":"mySound","path":"objects/objPlaySound/objPlaySound.yy",},"value":"sndCoin_Pickup",},
-          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":150.0,},
+          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":118.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_19FF025F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"propertyId":{"name":"mySound","path":"objects/objPlaySound/objPlaySound.yy",},"value":"snd_Deny",},
-          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":214.0,},
+          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":182.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_43402AC6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"propertyId":{"name":"mySound","path":"objects/objPlaySound/objPlaySound.yy",},"value":"sndDoor_Close",},
-          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":278.0,},
+          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":246.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_B32D1EE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"propertyId":{"name":"mySound","path":"objects/objPlaySound/objPlaySound.yy",},"value":"sndExplosion",},
-          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":342.0,},
+          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":310.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_74855C8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"propertyId":{"name":"mySound","path":"objects/objPlaySound/objPlaySound.yy",},"value":"sndLazer_Gun",},
-          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":406.0,},
+          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":374.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4C325A13","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"propertyId":{"name":"mySound","path":"objects/objPlaySound/objPlaySound.yy",},"value":"sndMenu_Click",},
-          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":470.0,},
+          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":438.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_458AB7A7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"propertyId":{"name":"mySound","path":"objects/objPlaySound/objPlaySound.yy",},"value":"sndPortal_Travel",},
-          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":534.0,},
+          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":502.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_32E3575A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"propertyId":{"name":"mySound","path":"objects/objPlaySound/objPlaySound.yy",},"value":"sndShotgun_Blast",},
-          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":598.0,},
+          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":566.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2B137DB8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objPlaySound","path":"objects/objPlaySound/objPlaySound.yy",},"propertyId":{"name":"mySound","path":"objects/objPlaySound/objPlaySound.yy",},"value":"sndBattle_Music",},
-          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":662.0,},
+          ],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":48.0,"y":630.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4DB07367","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objReverbEffect","path":"objects/objReverbEffect/objReverbEffect.yy",},"properties":[],"rotation":0.0,"scaleX":0.68,"scaleY":0.68354434,"x":288.0,"y":87.99999,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4B286951","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objSlideBar","path":"objects/objSlideBar/objSlideBar.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objSlideBar","path":"objects/objSlideBar/objSlideBar.yy",},"propertyId":{"name":"myEffect","path":"objects/objSlideBar/objSlideBar.yy",},"value":"objReverbEffect",},
@@ -188,9 +189,13 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objSlideBar","path":"objects/objSlideBar/objSlideBar.yy",},"propertyId":{"name":"sliderType","path":"objects/objSlideBar/objSlideBar.yy",},"value":"",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1248.0,"y":408.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2F30C85A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objRoomChange","path":"objects/objRoomChange/objRoomChange.yy",},"properties":[
-            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objRoomChange","path":"objects/objRoomChange/objRoomChange.yy",},"propertyId":{"name":"roomName","path":"objects/objRoomChange/objRoomChange.yy",},"value":"Music Player",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objRoomChange","path":"objects/objRoomChange/objRoomChange.yy",},"propertyId":{"name":"roomName","path":"objects/objRoomChange/objRoomChange.yy",},"value":"Cave",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objRoomChange","path":"objects/objRoomChange/objRoomChange.yy",},"propertyId":{"name":"myRoom","path":"objects/objRoomChange/objRoomChange.yy",},"value":"rmCave",},
+          ],"rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":1316.0,"y":718.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6CADB828","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objRoomChange","path":"objects/objRoomChange/objRoomChange.yy",},"properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objRoomChange","path":"objects/objRoomChange/objRoomChange.yy",},"propertyId":{"name":"roomName","path":"objects/objRoomChange/objRoomChange.yy",},"value":"Audio Player",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objRoomChange","path":"objects/objRoomChange/objRoomChange.yy",},"propertyId":{"name":"myRoom","path":"objects/objRoomChange/objRoomChange.yy",},"value":"rmAudioPlayer",},
-          ],"rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":1304.0,"y":704.0,},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":50.0,"y":718.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"sprMusicWindow","path":"sprites/sprMusicWindow/sprMusicWindow.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

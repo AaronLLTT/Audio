@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Side",
-    "path": "folders/Tile Sets/TS Sprites/Pixel/Side.yy",
+    "path": "folders/Sprites/Pixel/Side.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
