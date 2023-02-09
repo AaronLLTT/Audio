@@ -1,4 +1,5 @@
 /// @description Create a slider 
+
 mySlider = instance_create_layer(x, y + 3, "Instances", objSlider, {
 	mySlide : id,
 });

@@ -1,4 +1,4 @@
-/// @description Move 
+/// @description Follow the mouse && update the audio effect 
 if (moving && mySlide.sliderType != "Boolean") {
 	x = mouse_x;
 	x = clamp(x, maxLow, maxHigh);
@@ -27,6 +27,7 @@ else if (mySlide.myVariable == "quality") {
 	percent *= 100;
 }
 
+//Update the audio effect by calling parent's functions
 if (moving) {
 	if (mySlide.sliderType == "Boolean") {
 		mySlide.SetValue(percent);

@@ -1,10 +1,11 @@
-/// @description Vars 
+/// @description Set data for audio effect  
 
 myType = "High Pass Filter";
 isBypassed = true;
 cutoff = 2000;
 quality = 100;
 
+//Function to apply / update the audio effect
 ApplyEffect = function() {
 	var HPFEffect = audio_effect_create(AudioEffectType.HPF2);
 	

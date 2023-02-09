@@ -1,7 +1,8 @@
-/// @description Set listener position 
+/// @description Update listener position 
 
 audio_listener_set_position(0, x, y, 0);
 
+//Move
 if (following) {
 	x = mouse_x;
 	y = mouse_y;

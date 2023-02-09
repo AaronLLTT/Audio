@@ -2,6 +2,7 @@
 
 //Increase the global volume
 global.MasterVolume += 0.1;
+
 //Play different sounds
 if (global.MasterVolume > 1) {
 	audio_play_sound(snd_Deny, 1, false);
@@ -9,6 +10,7 @@ if (global.MasterVolume > 1) {
 else { //Play fun sound fx on click
 	audio_play_sound(sndMenu_Click, 1, false);
 }
+
 //Ensure we can't go over 1
 global.MasterVolume = clamp(global.MasterVolume, 0, 1);
 
