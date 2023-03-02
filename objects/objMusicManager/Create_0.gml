@@ -1,7 +1,7 @@
 /// @description Set up the manager 
 
 //Set the global playing sound
-global.CurrentSound = audio_play_sound(sndBattle_Music, 100, false, 1);
+global.CurrentSound = audio_play_sound(sndBattle_Music, 100, false, 0);
 
 //Set an alarm to pause the music right away
 alarm[0] = 2;

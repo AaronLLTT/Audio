@@ -35,6 +35,7 @@
     {"name":"Pixel","order":2,"path":"folders/Tile Sets/Pixel.yy",},
     {"name":"Side","order":1,"path":"folders/Tile Sets/Pixel/Side.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Notes","order":15,"path":"folders/Notes.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"MP3_SND_Underwater","order":8,"path":"sounds/MP3_SND_Underwater/MP3_SND_Underwater.yy",},

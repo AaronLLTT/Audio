@@ -1,0 +1,31 @@
+Here is important info to know about Audio Effects.
+
+1) Audio effects are played on audio busses. You can play them directly on the main bus (audio_bus_main), and
+every single sound played in your game will be effected by them that way. Or you can create your own audio bus
+and assign audio effects to those busses, and play sounds through them, to only effect certain sounds.
+
+2) Audio busses can up to 8 audio effects active at once. You assign them to an array that can be found at 
+audio_bus_main[0 - 7] (or your_custom_audio_bus[0 - 7]). They must be assigned like this:
+
+	var delayEffect = audio_effect_create(AudioEffectType.Delay);
+	delayEffect.bypass = isBypassed;
+	delayEffect.time = time;
+	delayEffect.feedback = feedback;
+	delayEffect.mix = mix;
+	audio_bus_main.effects[2] = delayEffect;
+	
+3) Audio effects can stack on top of each other. If you assign a delay of 1 second to the first effect slot
+in an audio bus, and assign another delay of 1 second in another slot, the total delay will be 2 seconds. In
+this way, you can have as strong of an effect as you want by stacking and multiplaying them by themselves.
+
+4) To reset an effect slot in an audio bus, you can assign it to undefined. This will reset it completely.
+You cannot go into a slot and effect properties individually, even though it's a struct. You must either
+set it to undefined completely, or create a new struct (with audio_effect_create) and fill in the properties
+and assign it that way.
+
+5) Each audio effect has its own unique properties. The delay audio effect has settings for bypass (which
+every audio effect has), time, feedback, and mix (this property is also shared among all audio effects).
+To know which properties an audio effect have, you can view the page with the struct and properties
+of each audio effect here:
+https://manual.yoyogames.com/GameMaker_Language/GML_Reference/Asset_Management/Audio/Audio_Effects/AudioEffect.htm
+
