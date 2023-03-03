@@ -10,4 +10,4 @@ audio_emitter_position(myEmit, x, y, 0);
 audio_emitter_falloff(myEmit, 100, 400, 1.2);
 
 //Begin playing the sound
-audio_play_sound_on(myEmit, mySound, true, 100);
+audio_play_sound_on(myEmit, my_sound, true, 100);

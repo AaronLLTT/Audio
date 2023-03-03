@@ -8,7 +8,7 @@ if (global.MasterVolume > 1) {
 	audio_play_sound(snd_Deny, 1, false);
 }
 else { //Play fun sound fx on click
-	audio_play_sound(sndMenu_Click, 1, false);
+	audio_play_sound(snd_Menu_Click, 1, false);
 }
 
 //Ensure we can't go over 1

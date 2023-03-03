@@ -3,7 +3,7 @@ draw_self();
 
 draw_set_halign(fa_left);
 draw_set_valign(fa_middle);
-draw_set_font(fntInfo);
+draw_set_font(fnt_info);
 
 var vertSpace = 100;
 var vertPadding = 100;

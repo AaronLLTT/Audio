@@ -12,7 +12,7 @@ audio_bus_main[0 - 7] (or your_custom_audio_bus[0 - 7]). They must be assigned l
 	delayEffect.time = time;
 	delayEffect.feedback = feedback;
 	delayEffect.mix = mix;
-	audio_bus_main.effects[2] = delayEffect;
+	audio_bus_main.effects[n] = delayEffect;
 	
 3) Audio effects can stack on top of each other. If you assign a delay of 1 second to the first effect slot
 in an audio bus, and assign another delay of 1 second in another slot, the total delay will be 2 seconds. In

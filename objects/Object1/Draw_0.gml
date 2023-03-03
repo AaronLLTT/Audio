@@ -1,7 +1,7 @@
 /// @description 
 var _loop_start, _loop_end, _current_time, _total_time, _loop_active;
 
-draw_set_font(fntTextTitles);
+draw_set_font(fnt_text_titles);
 
 _current_time = audio_sound_get_track_position(sound);
 _total_time = audio_sound_length(sound);

@@ -1,5 +1,7 @@
 /// @description Fill the name variable 
 
-mySoundName = audio_get_name(mySound);
-mySoundName = string_replace(mySoundName, "snd", "");
-mySoundName = string_replace(mySoundName, "_", " ");
+my_sound_name = audio_get_name(my_sound);
+my_sound_name = string_replace(my_sound_name, "snd", "");
+my_sound_name = string_replace(my_sound_name, "_", " ");
+my_sound_name = string_replace(my_sound_name, "_", " ");
+my_sound_name = string_lower(my_sound_name);
