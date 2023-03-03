@@ -4,4 +4,4 @@
 move_wrap(true, true, sprite_width);
 
 //Update emitter position based on x and y
-audio_emitter_position(myEmit, x, y, 0);
+audio_emitter_position(my_emit, x, y, 0);

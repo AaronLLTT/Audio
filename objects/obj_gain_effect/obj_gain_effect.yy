@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprGainIcon",
-    "path": "sprites/sprGainIcon/sprGainIcon.yy",
+    "name": "spr_gain_icon",
+    "path": "sprites/spr_gain_icon/spr_gain_icon.yy",
   },
   "spriteMaskId": null,
   "visible": true,

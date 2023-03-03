@@ -26,8 +26,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Loop Points",
+    "path": "folders/Sprites/Loop Points.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

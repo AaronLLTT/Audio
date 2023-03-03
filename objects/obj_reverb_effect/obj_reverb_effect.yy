@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sndReverbIcon",
-    "path": "sprites/sndReverbIcon/sndReverbIcon.yy",
+    "name": "spr_reverb_icon",
+    "path": "sprites/spr_reverb_icon/spr_reverb_icon.yy",
   },
   "spriteMaskId": null,
   "visible": true,

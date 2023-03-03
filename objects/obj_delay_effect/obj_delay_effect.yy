@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprDelayIcon",
-    "path": "sprites/sprDelayIcon/sprDelayIcon.yy",
+    "name": "spr_delay_icon",
+    "path": "sprites/spr_delay_icon/spr_delay_icon.yy",
   },
   "spriteMaskId": null,
   "visible": true,

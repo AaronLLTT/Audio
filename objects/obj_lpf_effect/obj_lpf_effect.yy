@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprLPFIcon",
-    "path": "sprites/sprLPFIcon/sprLPFIcon.yy",
+    "name": "spr_lpf_icon",
+    "path": "sprites/spr_lpf_icon/spr_lpf_icon.yy",
   },
   "spriteMaskId": null,
   "visible": true,

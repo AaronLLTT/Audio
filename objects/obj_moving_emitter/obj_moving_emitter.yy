@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprAudioEmitter",
-    "path": "sprites/sprAudioEmitter/sprAudioEmitter.yy",
+    "name": "spr_audio_emitter",
+    "path": "sprites/spr_audio_emitter/spr_audio_emitter.yy",
   },
   "spriteMaskId": null,
   "visible": true,

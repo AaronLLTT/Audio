@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Side",
-    "path": "folders/Sprites/Pixel/Side.yy",
+    "name": "Cave",
+    "path": "folders/Sprites/Cave.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

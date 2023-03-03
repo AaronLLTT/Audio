@@ -33,8 +33,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "sprWhiteSlider",
-    "path": "sprites/sprWhiteSlider/sprWhiteSlider.yy",
+    "name": "spr_slider_icon",
+    "path": "sprites/spr_slider_icon/spr_slider_icon.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprPerson",
-    "path": "sprites/sprPerson/sprPerson.yy",
+    "name": "spr_person",
+    "path": "sprites/spr_person/spr_person.yy",
   },
   "spriteMaskId": null,
   "visible": true,

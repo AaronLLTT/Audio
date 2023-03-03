@@ -18,14 +18,11 @@ _loop_active = audio_sound_get_loop(sound);
 
 if (_loop_active) {
 	_loop_active = "Loop is currently active";
-	
-	//Draw a rotating symbol while active
-	--angle;
-	draw_sprite_ext(sprite_index, 1, x, y, 1, 1, angle, c_white, 1);
+	image_blend = c_green;
 }
 else {
-	draw_sprite_ext(sprite_index, 1, x, y, 1, 1, angle, c_white, 1);
 	_loop_active = "Loop is NOT active.";
+	image_blend = c_red;
 }
 
 draw_text(room_width / 2, 200, _loop_active);

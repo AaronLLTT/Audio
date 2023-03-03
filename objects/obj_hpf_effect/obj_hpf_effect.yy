@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprHPFIcon",
-    "path": "sprites/sprHPFIcon/sprHPFIcon.yy",
+    "name": "spr_hpf_icon",
+    "path": "sprites/spr_hpf_icon/spr_hpf_icon.yy",
   },
   "spriteMaskId": null,
   "visible": true,

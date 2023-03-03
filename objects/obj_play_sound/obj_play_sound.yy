@@ -35,8 +35,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "sprAudioOnAndOff",
-    "path": "sprites/sprAudioOnAndOff/sprAudioOnAndOff.yy",
+    "name": "spr_audio_mute_icon",
+    "path": "sprites/spr_audio_mute_icon/spr_audio_mute_icon.yy",
   },
   "spriteMaskId": null,
   "visible": true,

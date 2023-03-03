@@ -34,8 +34,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "sprGreySliderBar",
-    "path": "sprites/sprGreySliderBar/sprGreySliderBar.yy",
+    "name": "spr_slider_bar",
+    "path": "sprites/spr_slider_bar/spr_slider_bar.yy",
   },
   "spriteMaskId": null,
   "visible": true,

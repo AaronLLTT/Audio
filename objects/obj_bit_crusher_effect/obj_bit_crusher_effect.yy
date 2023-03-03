@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprBitCrusherIcon",
-    "path": "sprites/sprBitCrusherIcon/sprBitCrusherIcon.yy",
+    "name": "spr_bit_crusher_icon",
+    "path": "sprites/spr_bit_crusher_icon/spr_bit_crusher_icon.yy",
   },
   "spriteMaskId": null,
   "visible": true,
