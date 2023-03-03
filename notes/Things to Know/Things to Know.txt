@@ -8,7 +8,7 @@ and assign audio effects to those busses, and play sounds through them, to only 
 audio_bus_main[0 - 7] (or your_custom_audio_bus[0 - 7]). They must be assigned like this:
 
 	var delayEffect = audio_effect_create(AudioEffectType.Delay);
-	delayEffect.bypass = isBypassed;
+	delayEffect.bypass = is_bypassed;
 	delayEffect.time = time;
 	delayEffect.feedback = feedback;
 	delayEffect.mix = mix;
