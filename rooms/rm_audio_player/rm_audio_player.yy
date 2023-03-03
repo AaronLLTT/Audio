@@ -15,7 +15,6 @@
     {"name":"inst_C364B88","path":"rooms/rm_audio_player/rm_audio_player.yy",},
     {"name":"inst_72CCCEEA","path":"rooms/rm_audio_player/rm_audio_player.yy",},
     {"name":"inst_671A0DED","path":"rooms/rm_audio_player/rm_audio_player.yy",},
-    {"name":"inst_6AD0BDE7","path":"rooms/rm_audio_player/rm_audio_player.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -31,7 +30,6 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_room_change","path":"objects/obj_room_change/obj_room_change.yy",},"propertyId":{"name":"roomName","path":"objects/obj_room_change/obj_room_change.yy",},"value":"Effects Sliders",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_room_change","path":"objects/obj_room_change/obj_room_change.yy",},"propertyId":{"name":"myRoom","path":"objects/obj_room_change/obj_room_change.yy",},"value":"rm_effects",},
           ],"rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":1316.0,"y":708.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6AD0BDE7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_track_position","path":"objects/obj_track_position/obj_track_position.yy",},"properties":[],"rotation":0.0,"scaleX":4.8399997,"scaleY":1.0,"x":672.0,"y":640.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"sprBackground","path":"sprites/sprBackground/sprBackground.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

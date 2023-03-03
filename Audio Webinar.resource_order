@@ -19,8 +19,8 @@
     {"name":"Cave","order":3,"path":"folders/Sprites/Cave.yy",},
     {"name":"Effects Experiment","order":1,"path":"folders/Sprites/Effects Experiment.yy",},
     {"name":"Emitteres","order":4,"path":"folders/Sprites/Emitteres.yy",},
-    {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Loop Points","order":5,"path":"folders/Sprites/Loop Points.yy",},
+    {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"snd_Coin_Pickup","order":6,"path":"sounds/snd_Coin_Pickup/snd_Coin_Pickup.yy",},
@@ -69,7 +69,6 @@
     {"name":"obj_play_pause","order":7,"path":"objects/obj_play_pause/obj_play_pause.yy",},
     {"name":"snd_desert_tomb_theme","order":10,"path":"sounds/snd_desert_tomb_theme/snd_desert_tomb_theme.yy",},
     {"name":"rm_cave","order":1,"path":"rooms/rm_cave/rm_cave.yy",},
-    {"name":"obj_track_position","order":10,"path":"objects/obj_track_position/obj_track_position.yy",},
     {"name":"snd_Deny","order":1,"path":"sounds/snd_Deny/snd_Deny.yy",},
     {"name":"obj_audio_emitter","order":4,"path":"objects/obj_audio_emitter/obj_audio_emitter.yy",},
     {"name":"rm_loop_points","order":3,"path":"rooms/rm_loop_points/rm_loop_points.yy",},
